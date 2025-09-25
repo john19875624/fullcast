@@ -5,6 +5,7 @@
 // @description  フルキャストの求人詳細ページから勤務情報を抽出し、カレンダー登録用のURLを生成します。夜勤対応版
 // @author       Enhanced
 // @match        https://fullcast.jp/flinkccpc/sc/ucas1008/*
+// @match        https://fullcast.jp/flinkccpc/sc/cca*
 // @grant        none
 // ==/UserScript==
 
